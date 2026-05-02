@@ -1,0 +1,11 @@
+# Ignore all LTSpice and documentation files
+*.asc linguist-detectable=false
+*.asy linguist-detectable=false
+*.op linguist-detectable=false
+*.raw linguist-detectable=false
+*.plt linguist-detectable=false
+*.docx linguist-detectable=false
+*.pdf linguist-detectable=false
+
+# Prevent GitHub from thinking this is Prolog
+*.pl linguist-detectable=false
