@@ -1,0 +1,22 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -64 -81 64 95
+TEXT -17 -2 Left 0 2:1 Mux
+PIN -64 -16 LEFT 8
+PINATTR PinName a
+PINATTR SpiceOrder 1
+PIN -64 32 LEFT 8
+PINATTR PinName b
+PINATTR SpiceOrder 2
+PIN 16 96 VLEFT 8
+PINATTR PinName en
+PINATTR SpiceOrder 3
+PIN -16 96 VLEFT 8
+PINATTR PinName s0
+PINATTR SpiceOrder 4
+PIN 0 -80 VRIGHT 8
+PINATTR PinName vdd
+PINATTR SpiceOrder 5
+PIN 64 16 RIGHT 8
+PINATTR PinName out
+PINATTR SpiceOrder 6
