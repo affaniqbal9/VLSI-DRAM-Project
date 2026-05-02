@@ -1,3 +1,13 @@
+![Tag](https://img.shields.io/badge/VLSI-Design-blue)
+![Tag](https://img.shields.io/badge/DRAM-4x4-green)
+![Tag](https://img.shields.io/badge/LTSpice-Simulation-orange)
+![Tag](https://img.shields.io/badge/CMOS-180nm-red)
+![Tag](https://img.shields.io/badge/Memory-Design-yellow)
+![Tag](https://img.shields.io/badge/SenseAmplifier-NOT--Gate-lightgrey)
+![Tag](https://img.shields.io/badge/Decoder-2x4-purple)
+![Tag](https://img.shields.io/badge/DFF-RowBuffer-brightgreen)
+![Tag](https://img.shields.io/badge/Status-Working-success)
+
 # 4×4 DRAM Design — VLSI Final Project
 
 This repository contains the complete LTSpice implementation, simulation files, and documentation for a semi‑realistic **4×4 DRAM** designed as part of the VLSI Design course. The project includes transistor‑level DRAM cells, decoders, sense amplifiers, row buffers, and a control FSM that performs full DRAM read, write‑back, and refresh operations.
