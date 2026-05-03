@@ -45,20 +45,6 @@ The design follows the required DRAM read sequence and demonstrates correct timi
 
 ---
 
-## 📂 Repository Structure
-│── DRAM.asc               # Main 4×4 DRAM schematic
-│── Dff.asc                # CMOS D flip-flop (row buffer)
-│── NAND.asc / NAND3.asc   # Logic gates used in decoders
-│── NOT.asc                # Sense amplifier
-│── SA.asc                 # Sense amplifier block
-│── smux.asc               # Column multiplexer
-│── Demux2-4*.asc          # Row decoder variants
-│── *.asy                  # LTSpice symbol files
-│── *.op / *.raw / *.plt   # Simulation outputs
-
-
----
-
 ## 📊 Simulation Requirements
 
 All simulations follow the project constraints:
