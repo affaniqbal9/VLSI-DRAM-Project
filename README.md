@@ -69,9 +69,6 @@ All simulations follow the project constraints:
 
 ---
 
-## 📄 Report
-
-
 ## ▶ How to Run
 
 1. Open `.asc` files in **LTSpice**  
