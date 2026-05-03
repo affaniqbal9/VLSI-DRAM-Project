@@ -6,7 +6,6 @@
 ![Tag](https://img.shields.io/badge/SenseAmplifier-NOT--Gate-lightgrey)
 ![Tag](https://img.shields.io/badge/Decoder-2x4-purple)
 ![Tag](https://img.shields.io/badge/DFF-RowBuffer-brightgreen)
-![Tag](https://img.shields.io/badge/Status-Working-success)
 
 # 4×4 DRAM Design - VLSI Final Project
 
