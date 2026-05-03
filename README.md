@@ -8,7 +8,7 @@
 ![Tag](https://img.shields.io/badge/DFF-RowBuffer-brightgreen)
 ![Tag](https://img.shields.io/badge/Status-Working-success)
 
-# 4×4 DRAM Design — VLSI Final Project
+# 4×4 DRAM Design - VLSI Final Project
 
 This repository contains the complete LTSpice implementation, simulation files, and documentation for a semi‑realistic **4×4 DRAM** designed as part of the VLSI Design course. The project includes transistor‑level DRAM cells, decoders, sense amplifiers, row buffers, and a control FSM that performs full DRAM read, write‑back, and refresh operations.
 
