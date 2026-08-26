@@ -77,4 +77,14 @@ All simulations follow the project constraints:
 
 ---
 
+## 🧰 Tools
 
+**Simulation:** LTSpice · **Technology:** 180 nm CMOS · **Supply:** 1.8 V
+
+---
+
+## 👥 Contributors
+
+Two-person team project for the VLSI Design course, University of Houston (Sep – Dec 2025).
+
+**Affan Iqbal** — [LinkedIn](https://www.linkedin.com/in/affaniqbal9/) · [GitHub](https://github.com/affaniqbal9)
